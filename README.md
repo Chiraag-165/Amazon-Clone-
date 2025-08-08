@@ -1,2 +1,4 @@
 # Amazon-Clone-
-This is my first Git Repository. Based on Frontend Development(HTML,CSS)
+This is my first Git Repository.
+<br>
+Based on Frontend Development(HTML,CSS)
